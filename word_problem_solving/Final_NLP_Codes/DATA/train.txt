@@ -1,0 +1,8 @@
+There were a total of num1 soccer games during the num3 month season. If the games are equally divided, how many soccer games are played a month ?	num1 num3 /	
+Jill invited num3 people to her birthday party. They each ate num2 pieces of pizza. How many pieces of pizza did they eat?	num3 num2 *	
+Tim found num3 seashells and Sally found num1 seashells on the beach . When they cleaned them , they discovered that 25 were cracked . How many seashells did they find together ?	num3 num1 +	
+Kimberly went to the store num3 times last month. She buys num2 peanuts each time she goes to the store. How many peanuts did Kimberly buy last month?	num3 num2 *	
+Wanda has num3 blocks. Theresa gives Wanda num1 more. How many blocks does Wanda have in all?	num3 num1 +	
+Ezra drew a white line that was num1 inches long . Then he drew a blue line that was num3 inches long . How much longer was the white line than the blue line ?	num1 num3 -	
+Sarah sold num3 boxes of Lemon Chalet Cremes. How many cases of num2 boxes, plus extra boxes does Sarah need?	num3 num2 /	
+Joshua has num3 Skittles and 6 eggs. If he shares the Skittles among num2 friends, how many Skittles does each friend get?	num3 num2 /	

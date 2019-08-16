@@ -1,0 +1,8 @@
+Sara picked 10 pears . Sally picked 20 pears. How many pears were picked in total ?	num2 num1 +    
+There are 15 pencils and 44 crayons in the drawer . Joan placed 32 pencils in the drawer . How many pencils are now there in total ?	num1 num2 +
+There are 26 walnut trees currently in the park . Park workers will plant 18 walnut trees today . How many walnut trees will the park have when the workers are finished ?	num3 num1 +
+Mike has 42 orange marbles . He gave Sam 16 of the marbles . How many orange marbles does he now have ? num2 num1 -
+Sam grew 15 watermelons . But the rabbits ate 3 watermelons . How many watermelons does Sam have ?    num1 num3 -
+Dan picked 20 limes. He gave Sara 12 of the limes . How many limes does Dan have now ?    num3 num2 -
+Kelly 's chemistry textbook weighs 50 pounds. Her geometry textbook weighs 35 pound . How much more does the chemistry textbook weigh than the geometry textbook ?    num2 num1 -
+There are 50 calories in a candy bar. There are 15 candy bars . How many calories are there in the candy bars ?    num2 num1 *

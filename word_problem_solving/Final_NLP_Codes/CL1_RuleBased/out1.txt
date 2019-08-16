@@ -1,0 +1,129 @@
+sentences:  ['Ruth had 5 nuts more than Dan had .', 'Dan has 3 nuts .', 'How many nuts does Ruth have now ?']
+sentences information : 
+['Ruth had 5 nuts more than Dan had .', 'Dan has 3 nuts .']
+
+
+Question Related Sentences : 
+['How many nuts does Ruth have now ?']
+
+
+CC_resolve_pos_dict is  {0: {'Ruth': 'NNP', 'had': 'VBD', '5': 'CD', 'nuts': 'NNS', 'more': 'JJR', 'than': 'IN', 'Dan': 'NNP', '.': '.'}}
+
+
+
+Original_resolve_pos_dict is  {0: {'Ruth': 'NNP', 'had': 'VBD', '5': 'CD', 'nuts': 'NNS', 'more': 'JJR', 'than': 'IN', 'Dan': 'NNP', '.': '.'}}
+CC_resolve_pos_dict is  {0: {'Ruth': 'NNP', 'had': 'VBD', '5': 'CD', 'nuts': 'NNS', 'more': 'JJR', 'than': 'IN', 'Dan': 'NNP', '.': '.'}, 1: {'Dan': 'NNP', 'has': 'VBZ', '3': 'CD', 'nuts': 'NNS', '.': '.'}}
+
+
+
+Original_resolve_pos_dict is  {0: {'Ruth': 'NNP', 'had': 'VBD', '5': 'CD', 'nuts': 'NNS', 'more': 'JJR', 'than': 'IN', 'Dan': 'NNP', '.': '.'}, 1: {'Dan': 'NNP', 'has': 'VBZ', '3': 'CD', 'nuts': 'NNS', '.': '.'}}
+CC_resolve_pos_dict:  {0: {'Ruth': 'NNP', 'had': 'VBD', '5': 'CD', 'nuts': 'NNS', 'more': 'JJR', 'than': 'IN', 'Dan': 'NNP', '.': '.'}, 1: {'Dan': 'NNP', 'has': 'VBZ', '3': 'CD', 'nuts': 'NNS', '.': '.'}, 2: {'How': 'WRB', 'many': 'JJ', 'nuts': 'NNS', 'does': 'VBZ', 'Ruth': 'NNP', 'have': 'VB', 'now': 'RB', '?': '.'}}
+
+
+
+processed_input:  ['Ruth had 5 nuts more than Dan had .', 'Dan has 3 nuts .', 'How many nuts does Ruth have now ?']
+
+
+
+
+['Ruth', 'had', '5', 'nuts', 'more', 'than', 'Dan', 'had', '.'] 99 0
+
+--------------------------
+
+0 9 Ruth 0 0
+1 9 had 0 0
+after_verb_tags:  ['CD', 'NNS', 'JJR', 'IN', 'NNP', 'VBD', '.']
+Averb:  ['5', 'nuts', 'more']
+Prp_Verb:  ['than', 'Dan', 'had', '.']
+Entities:  ['nuts']
+PREverb is ['Ruth']
+Owners1 is ['Ruth']
+Owners2 is ['Dan']
+Entity_Values is ['5']
+2 9 5 0 0
+3 9 nuts 0 0
+4 9 more 0 0
+5 9 than 0 0
+6 9 Dan 0 0
+7 9 had 0 0
+after_verb_tags:  ['.']
+Averb:  ['.']
+Prp_Verb:  []
+Entities:  []
+PREverb is ['Ruth', 'had', '5', 'nuts', 'more', 'than', 'Dan']
+Owners1 is ['Ruth', 'Dan']
+Owners2 is []
+Entity_Values is ['5']
+8 9 . 0 0
+
+
+['Dan', 'has', '3', 'nuts', '.'] 99 1
+
+--------------------------
+
+0 5 Dan 1 1
+1 5 has 1 1
+after_verb_tags:  ['CD', 'NNS', '.']
+Averb:  ['3', 'nuts', '.']
+Prp_Verb:  []
+Entities:  ['nuts']
+PREverb is ['Dan']
+Owners1 is ['Dan']
+Owners2 is []
+Entity_Values is ['5', '3']
+2 5 3 1 1
+3 5 nuts 1 1
+4 5 . 1 1
+
+
+['How', 'many', 'nuts', 'does', 'Ruth', 'have', 'now', '?'] 99 2
+
+--------------------------
+
+0 8 How 2 2
+1 8 many 2 2
+2 8 nuts 2 2
+3 8 does 2 2
+after_verb_tags:  ['NNP', 'VB', 'RB', '.']
+Averb:  ['Ruth', 'have', 'now', '?']
+Prp_Verb:  []
+Entities:  ['nuts']
+PREverb is ['How', 'many', 'nuts']
+Owners1 is []
+Owners2 is ['Ruth']
+Entity_Values is ['5', '3']
+4 8 Ruth 2 2
+5 8 have 2 2
+after_verb_tags:  ['RB', '.']
+Averb:  ['now', '?']
+Prp_Verb:  []
+Entities:  ['nuts']
+PREverb is ['How', 'many', 'nuts', 'does', 'Ruth']
+Owners1 is ['Ruth']
+Owners2 is []
+Entity_Values is ['5', '3']
+6 8 now 2 2
+7 8 ? 2 2
+
+
+
+
+
+processed_information:  ['Ruth had 5 nuts more than Dan had .', 'Dan has 3 nuts .']
+
+
+
+schema Identification.....
+
+
+
+possible_schemas and their sent's indices:  ['Compare_Plus', 'Compare_Plus', 'Compare_Plus', 'Compare_Plus', 'Compare_Plus', 'Compare_Plus', 'Compare_Plus'] [0, 0, 0, 0, 0, 0, 0]
+
+
+Identified Unique Schemas:  {'Compare_Plus'}
+
+
+In Compare_Plus: 
+
+{'verb': ['had'], 'pre_verb': ['Ruth', 'had', '5', 'nuts', 'more', 'than', 'Dan'], 'after_verb': ['.'], 'prp_verb': [], 'Entities': [], 'Owners1': ['Ruth', 'Dan'], 'Owners2': [], 'Entity_Values': ['5', '3']}
+Answer in Natural Language Processing....

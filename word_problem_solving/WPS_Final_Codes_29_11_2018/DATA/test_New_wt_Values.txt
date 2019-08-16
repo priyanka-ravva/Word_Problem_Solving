@@ -1,0 +1,37 @@
+Joan found 30 seashells on the beach . she gave Sam some of her seashells . She has 6 seashells . How many seashells did she give to Sam ? 	num2 num1 - 
+There were 45 bales of hay in the barn . Tim stacked bales in the barn today . There are now 60 bales of hay in the barn . How many bales did he store in the barn ? 	num3 num2 - 
+There were 28 roses in the vase . Mary cut some roses from her flower garden . There are now 45 roses in the vase . How many roses did she cut ? 	num2 num1 - 
+Alyssa 's dog had puppies . She gave 5 to her friends . She now has 3 puppies . How many puppies did she have to start with ? 	num1 num3 + 
+A restaurant served 60 cakes during lunch and 45 cakes during dinner today . How many cakes were served today ? 	num3 num2 + 
+Sandy grew 40 carrots . Sam grew 26 carrots . How many carrots did they grow in total ? 	num1 num2 + 
+Benny picked 22 apples and Dan picked 43 apples from the apple tree . How many apples were picked in total ? 	num1 num3 + 
+Sam found 16 seashells and Mary found 67 seashells on the beach . How many seashells did they find together ? 	num3 num2 + 
+Sara picked 23 pears and Sally picked 2 pears from the pear tree . How many pears were picked in total ? 	num2 num1 + 
+Fred went to 4 basketball games this year , but missed 35 . He went to 8 games last year . How many basketball games did Fred go to in total ? 	num3 num2 + 
+There are 45 pencils and 44 crayons in the drawer . Joan placed 22 pencils in the drawer . How many pencils are now there in total ? 	num1 num2 + 
+Joan has 20 blue balloons Melanie has 30 blue balloons . How many blue balloons do they have in total ? 	num2 num3 + 
+Mary found 16 seashells and Jessica found 18 seashells on the beach . How many seashells did they find together ? 	num2 num3 + 
+A restaurant served 46 cakes during lunch and 32 during dinner today . How many cakes were served today ? 	num3 num2 + 
+Mike has 15 baseball cards . Sam bought 5 of Mike 's baseball cards . How many baseball cards does Mike have now ? 	num2 num1 - 
+There are 26 popular trees currently in the park . Park workers will plant 12 popular trees today . How many popular trees will the park have when the workers are finished ? 	num2 num1 + 
+There are 18 scissors in the drawer . Keith placed 14 scissors in the drawer . How many scissors are now there in all ? 	num3 num2 + 
+There are 26 walnut trees currently in the park . Park workers will plant 25 walnut trees today . How many walnut trees will the park have when the workers are finished ? 	num3 num1 + 
+There are 8 pencils in the drawer . Sara placed 6 pencils in the drawer . How many pencils are now there in all ? 	num1 num3 + 
+Mike has 45 orange marbles and he gave Sam 27 of the marbles . How many orange marbles does he now have ? 	num2 num1 - 
+Sam grew 16 watermelons , but the rabbits ate 2 watermelons . How many watermelons does Sam have ? 	num1 num3 - 
+Mary has 22 yellow marbles Joan has 14 yellow marbles . How many yellow marbles do they have in all ? 	num1 num3 + 
+Mary had 18 potatoes in the garden . The rabbits ate 4 of the potatoes . How many potatoes does Mary now have ? 	num1 num3 - 
+Jessica had 78 quarters in her bank . Her sister borrowed 26 of her quarters . How many quarters does Jessica have now ? 	num2 num1 - 
+Dan picked 18 limes and gave Sara 6 of the limes . How many limes does Dan have now ? 	num3 num2 - 
+Fred found 44 seashells on the beach and he gave Jessica 22 of the seashells . How many seashells does he now have ? 	num3 num1 - 
+There are 32 rulers in the drawer . Tim took 12 rulers from the drawer . How many rulers are now in the drawer ? 	num1 num2 -
+Sara spent $ 10 on a hotdog and $ 6 on a salad . What was the total of the lunch bill ? 	num2 num1 + 
+Jason spent $ 69 on shorts and $ 205 on a jacket . In total , how much money did Jason spend on clothing ? 	num3 num2 + 
+Alyssa paid $ 14 for grapes , and $ 20 for cherries . In total , how much money did Alyssa spend ? 	num1 num3 + 
+There were originally 288 houses in Lincoln County . During a housing boom , developers 245  . How many houses are there now in Lincoln County ? 	num2 num1 + 
+Tori is a school janitor . Last week , she picked up a total of 87 pieces of trash . If she picked up 26 pieces of trash in the classrooms , how many pieces of trash did Tori pick up outside the classrooms ? 	num1 num3 - 
+Martin owns the Wafting Pie Company . This morning , her employees used 40 eggs to bake pumpkin pies . If her employees used a total of 87 eggs today , how many eggs did they use in the afternoon ? 	num2 num3 - 
+A company painted some houses in Hancock County white and blue using a total of 90 gallons of paint . If they used 23 gallons of white paint , how many gallons of blue paint did the company use ? 	num1 num2 - 
+Last year , egg producers in Douglas County produced 7896 eggs . This year , those same farms produced 9889 eggs . How many more eggs did the farms produce this year ? 	num1 num3 - 
+An oil pipe in the sea broke . Before engineers started to fix the pipe , 45 gallons of oil leaked into the water . A total of 60 gallons of oil leaked before the pipe was fixed . How many gallons of oil leaked while the engineers were fixing the pipe ? 	num3 num2 - 
+Oscar 's bus ride to school is 22 miles and Charlie 's bus ride is 15 miles . How much longer is Oscar 's bus ride than Charlie 's ? 	num2 num3 - 

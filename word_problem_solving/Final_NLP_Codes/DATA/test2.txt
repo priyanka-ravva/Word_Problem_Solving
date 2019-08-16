@@ -1,0 +1,5 @@
+Joan found 5 seashells on the beach . she gave Sam some of her seashells . She has 1 seashells . How many seashells did she give to Sam ?	num2 num1 -	
+There were 30 bales of hay in the barn . Tim stacked bales in the barn today . There are now 45 bales of hay in the barn . How many bales did he store in the barn ?	num3 num2 -
+There were 10 roses in the vase . Mary cut some roses from her flower garden . There are now 30 roses in the vase . How many roses did she cut ?	num2 num1 -	
+Tim found 20 seashells . Sally found 40 seashells . When they cleaned them , they discovered that 25 were cracked . How many seashells did they find together ?	num3 num1 + 
+Sam had 15 dimes in his bank . His Dad gave him 30 dimes . How many dimes does Sam have now ?	num1 num2 +	
